@@ -1,6 +1,6 @@
 /*!
- * Vue.js v2.5.13
- * (c) 2014-2017 Evan You
+ * Vue.js v2.5.17
+ * (c) 2014-2018 Evan You
  * Released under the MIT License.
  */
 
@@ -32,16 +32,6 @@
  * @license MIT
  */
 
-//! moment.js
-
-//! version : 2.20.1
-
-//! authors : Tim Wood, Iskren Chernev, Moment.js contributors
-
-//! license : MIT
-
-//! momentjs.com
-
 /*!
  * Determine if an object is a Buffer
  *
@@ -59,6 +49,10 @@
 * http://photoswipe.com
 * Copyright (c) 2017 Dmitry Semenov; */
 
+/*! PhotoSwipe Default UI - 4.1.2 - 2017-04-05
+* http://photoswipe.com
+* Copyright (c) 2017 Dmitry Semenov; */
+
 /*!
  * @overview es6-promise - a tiny implementation of Promises/A+.
  * @copyright Copyright (c) 2014 Yehuda Katz, Tom Dale, Stefan Penner and contributors (Conversion to ES6 API by Jake Archibald)
@@ -71,9 +65,13 @@
 * http://photoswipe.com
 * Copyright (c) 2017 Dmitry Semenov; */
 
+/*! PhotoSwipe - v4.1.2 - 2017-04-05
+* http://photoswipe.com
+* Copyright (c) 2017 Dmitry Semenov; */
+
 /**
- * vue-meta v1.4.3
- * (c) 2018 Declan de Wet & Atinux
+ * vue-meta v1.5.3
+ * (c) 2018 Declan de Wet & Sébastien Chopin (@Atinux)
  * @license MIT
  */
 
@@ -84,7 +82,7 @@ object-assign
 */
 
 /**
-  * vee-validate v2.0.4
+  * vee-validate v2.0.9
   * (c) 2018 Abdelrahman Awad
   * @license MIT
   */
